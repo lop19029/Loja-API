@@ -1,7 +1,7 @@
 # Loja API
 
 
-API gerenciador de loja para ser consumido pelo projeto [Loja Frontend](https://git.gft.com/aolj/loja-frontend). Cadastra as informações dos produtos incluindo fotos.
+API gerenciador de loja para ser consumido pelo projeto [LojaAPI-Frontend](https://github.com/lop19029/LojaAPI-Frontend). Cadastra as informações dos produtos incluindo fotos.
 Permite aos usuarios cadastrados realizar pedidos de compra.
 
 ### Funcionalidades
